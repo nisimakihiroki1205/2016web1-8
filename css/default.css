@@ -18,6 +18,12 @@ body{
   color:black;
 }
 
+#gnav a.selected{
+  background:white;
+  color:darkgreen;
+  font-weight:bold;
+}
+
 .breadcrumbs li{
   display:inline;
   list-style-type:none;
