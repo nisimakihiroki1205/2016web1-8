@@ -4,6 +4,21 @@ body{
   background-color;green;
 }
 
+#logo ul{
+  overflow:hidden;
+}
+
+#logo li{
+  display:table-cell;
+  vertical-align:middle;
+  float:left;
+  list-style-type:none;
+}
+
+#logo img{
+  width:100px;
+}
+
 #gnav a{
   display:block;
   padding:10px 0;
