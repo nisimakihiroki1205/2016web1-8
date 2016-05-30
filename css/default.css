@@ -62,8 +62,8 @@ body{
 }
 
 div.img#home{background-position:0 0px;}
-div.img#cotent1{background-position:0 -46px;}
-div.img#cotent2{background-position:0 -92px;}
+div.img#cotent1{background-position:-10 -46px;}
+div.img#cotent2{background-position:-20 -92px;}
 div.img#help{background-position:0 -138px;}
 div.img#faq{background-position:0 -184px;}
 
