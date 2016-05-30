@@ -43,6 +43,30 @@ body{
   color:white;
 }
 
+#gnav a:after{
+  clear:both;
+}
+
+#gnav div.img{
+  display:table-cell;
+  vertical-align:middle;
+  background:url(../supuraito)no-repeat;
+  width:55px;
+  height:46px;
+}
+
+#gnav div.text{
+  display:table-cell;
+  vertical-align:middle;
+  padding:10px 5px;
+}
+
+div.img#home{background-position:0 0px;}
+div.img#cotent1{background-position:0 -46px;}
+div.img#cotent2{background-position:0 -92px;}
+div.img#help{background-position:0 -138px;}
+div.img#faq{background-position:0 -184px;}
+
 #gnav a:hover{
   background:lightgreen;
   color:black;
