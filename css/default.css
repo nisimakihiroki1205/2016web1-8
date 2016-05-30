@@ -28,7 +28,7 @@ body{
   color:white;
 }
 
-#gnav a{
+#gnav a:hover{
   background:lightgreen;
   color:black;
 }
